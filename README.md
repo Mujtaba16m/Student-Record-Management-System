@@ -11,7 +11,7 @@ A minimalist desktop app  to managae students record. **record are saved directl
 ## `Login`
 <img src="ScreenShot/Home.JPG">
 
-## `Logged in as Admin`
+## `Logged in as an Admin`
 <img src="ScreenShot/AdminFunction.JPG">
 
 ## `Viewing Students Records`
